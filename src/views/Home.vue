@@ -3,7 +3,6 @@
         <div class="app-header">
             <!-- 顶部信息栏 -->
             <el-row>
-
                 <el-col :span="12" style="text-align: right" :offset="12">
                     <div class="user-info">
                         <el-avatar :size="36" :src="userInfo.avatar"></el-avatar>
